@@ -118,6 +118,10 @@ h2 {
   text-align: 100%
 }
 
+.quote blockquote{
+color:#d50000;
+}
+
 .chisiamo-icon {
   font-size: 5em;
   margin-top:6%;
