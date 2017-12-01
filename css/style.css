@@ -44,21 +44,15 @@ p {
   width: 100%;
 }
 
-.header {
-  margin-top: 2.7%;
-  font-size: 3.5em;
-}
-
-.header-subtitle {
-  margin-top: 2%;
-  font-size: 1.3em;
-}
 
 .call {
   margin-top: 2%;
   margin-bottom: 1%;
 }
 
+.btn-introcall {
+  width: 100%;
+}
 
 .section-prenota {
   height: 100%;
@@ -80,6 +74,15 @@ p {
   #index-banner .section {
     top: 0;
   }
+
+   h1 {
+  font-size: 3.5em;
+  }
+
+  a {
+    font-size: 1em;
+  }
+
   .nav-wrapper {
     padding: 0 1px;
   }
@@ -88,6 +91,10 @@ p {
   margin-top: 1%;
   margin-left: 17%;
 }
+
+.fotointro {
+  padding-right: 5em;
+  }
 
 }
 
@@ -131,6 +138,7 @@ color:#d50000;
 
 .btn-chisiamo {
   width:100%;
+  font-size:1.3em;
 }
 
 #vetrina h5{
